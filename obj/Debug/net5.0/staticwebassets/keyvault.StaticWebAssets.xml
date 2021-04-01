@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\wjones\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\5.0.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Microsoft.Authentication.WebAssembly.Msal" Path="C:\Users\wjones\.nuget\packages\microsoft.authentication.webassembly.msal\5.0.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="/" Path="C:\Users\wjones\source\repos\keyvault\keyvault.web\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\wjones\source\repos\keyvault\keyvault.web\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
